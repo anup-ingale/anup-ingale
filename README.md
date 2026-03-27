@@ -1,102 +1,152 @@
+<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Anup Ashokrao Ingale</h1>
-<h3 align="center">🚀 Python & Django Developer | 🎯 Backend API Expert | ☁️ Cloud Enthusiast | 💼 Freelancer</h3>
 
-<p align="center">Welcome to my world of <strong>custom website development</strong>, <strong>scalable Django & React apps</strong>, and <strong>modern tech solutions</strong>, where innovation meets expertise! 🌟</p>
+<h3 align="center">
+  🚀 Senior Python Developer | Django Specialist | Scalable API Architect | Cloud Engineer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anup-ingale&label=Profile%20views&color=0e75b6&style=flat" alt="anup-ingale" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anup-ingale&theme=gruvbox&no-frame=true&margin-w=10" alt="anup-ingale" />
-  </a>
+  I design and build <strong>high-performance backend systems</strong>, 
+  <strong>scalable APIs</strong>, and <strong>cloud-native applications</strong>.
 </p>
 
----
-
-### 🌟 About Me
-- 🔭 **Currently Working On:** Portfolio Blogging, Real Estate  
-- 🌱 **Learning:** React.js, Advanced Django  
-- 💬 **Ask Me About:** Python, Django, AWS, GCP, Docker, NGINX, Gunicorn  
-- ⚡ **Fun Fact:** I'm versatile in learning and passionate about exploring tech in-depth.  
-
-### 🚀 Services & Expertise
-- **Custom Website Development**  
-- **Backend API Development**  
-- **Scalable Django & React Apps**  
-- **Cloud Deployment (AWS, GCP)**  
-- **Web Scraping & Automation**  
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.chartjs.org" target="_blank">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40" />
-  </a>
-</p>
-
----
-
-### 📂 Projects
-
-- **Portfolio Blogging System**: A feature-rich blogging platform with advanced customization options.  
-- **Real Estate Management System**: A robust application for managing real estate listings, inquiries, and transactions.  
-- **Web Scraping for E-Commerce**: Automated tools for scraping data from websites to generate actionable insights.  
-
----
-
-### 💻 GitHub Stats
+<!-- BADGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anup-ingale&show_icons=true&locale=en&theme=tokyonight" alt="Anup Ingale's GitHub stats" />
+  <img src="https://komarev.com/ghpvc/?username=anup-ingale&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/anup-ingale?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/anup-ingale?label=Stars&style=social" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anup-ingale&theme=tokyonight" alt="Anup Ingale's GitHub streak stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anup-ingale&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anup-ingale&theme=gruvbox&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/anup-ingale-172657132/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<!-- ABOUT -->
+## 👨‍💻 About Me
+
+- 💼 **Experience:** 6+ years in Python backend development  
+- 🧠 **Core Expertise:** Django, REST APIs, System Design  
+- ☁️ **Cloud:** AWS, GCP (deployment, scaling, infra)  
+- ⚙️ **Focus:** Performance optimization, scalability, clean architecture  
+- 🚀 **Current Work:** Real Estate Platform & Blogging Ecosystem  
+- 📚 **Learning:** Advanced React & Distributed Systems  
+
+---
+
+<!-- VALUE PROPOSITION -->
+## 🎯 What I Bring
+
+- Architecting **scalable backend systems**  
+- Designing **clean, maintainable APIs**  
+- Building **production-grade cloud deployments**  
+- Writing **optimized, efficient, and secure code**  
+- Delivering **business-focused solutions, not just code**
+
+---
+
+<!-- TECH STACK -->
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<!-- Backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
+
+<!-- Frontend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+
+<!-- DevOps -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+
+<!-- Cloud -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
+
+</p>
+
+---
+
+<!-- PROJECTS -->
+## 📂 Featured Projects
+
+### 🔹 Portfolio Blogging Platform
+- Advanced content management system  
+- SEO-friendly architecture  
+- Optimized for scalability and performance  
+
+### 🔹 Real Estate Management System
+- Property listings & inquiry workflows  
+- Admin dashboards & transaction handling  
+- Designed using scalable backend architecture  
+
+### 🔹 Web Scraping & Automation Engine
+- Automated data pipelines  
+- Structured data extraction  
+- High-performance scraping using Python  
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anup-ingale&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anup-ingale&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anup-ingale&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- SERVICES -->
+## 🚀 Services
+
+- 🧩 Custom Web Application Development  
+- ⚡ Backend API Development (Django / Flask)  
+- ☁️ Cloud Deployment & DevOps (AWS / GCP)  
+- 🔄 Automation & Web Scraping Solutions  
+- 📈 Performance Optimization & Scaling  
+
+---
+
+<!-- CONNECT -->
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anup-ingale-172657132/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
-  <a href="https://fb.com/anup-ingale" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://fb.com/anup-ingale">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45"/>
   </a>
-  <a href="/https://anupingale.com/rss/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS" height="30" width="40" />
+  <a href="https://anupingale.com/rss/">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25667.png" width="45"/>
   </a>
 </p>
 
 ---
 
-### ✨ Let's Build Together!
-🚀 Whether you’re looking for **custom websites**, **backend APIs**, or **scalable web apps**, let’s collaborate to bring your vision to life. Drop me a message, and let’s get started! 💡
+<!-- CTA -->
+## 💡 Let’s Work Together
 
+If you're looking for:
+✔️ Scalable backend architecture  
+✔️ Production-ready APIs  
+✔️ Cloud-native deployment  
+✔️ High-performance systems  
+
+📩 Reach out — I focus on delivering **reliable, maintainable, and business-driven solutions**.
