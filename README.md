@@ -17,10 +17,6 @@
   <img src="https://img.shields.io/github/stars/anup-ingale?label=Stars&style=social" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anup-ingale" />
-</p>
-
 ---
 
 <!-- ABOUT -->
@@ -99,15 +95,7 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anup-ingale&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=anup-ingale&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anup-ingale&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -127,7 +115,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anup-ingale-172657132/">
+  <a href="https://www.linkedin.com/in/anup-ingale/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
   <a href="https://fb.com/anup-ingale">
