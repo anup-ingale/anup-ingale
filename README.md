@@ -31,8 +31,8 @@
 ---
 
 <details open>
-<summary style="font-size: 20px; font-weight:bold;">𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨: 🛠️ </summary>
-
+      &nbsp;
+     <summary style="font-size: 20px; font-weight:bold;">𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨: 🛠️ </summary>
 <blockquote>
 
 <!-- FRONTEND -->
