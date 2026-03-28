@@ -28,15 +28,6 @@
 - ⚙️ **Focus:** Performance optimization, scalability, clean architecture  
 - 🚀 **Current Work:** Real Estate Platform & Blogging Ecosystem  
 - 📚 **Learning:** Advanced React & Distributed Systems  
-
-<details open>
-	<summary style="font-size: 20px; font-weight:bold;">𝘼𝙗𝙤𝙪𝙩 𝙈𝙚</summary>
-
-- ✨ 𝙁𝙪𝙡𝙡𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
-- 🏙️ 𝙁𝙧𝙤𝙢 **_Pune_**, **_India_**
-
-</details>
-
 ---
 
 <details open>
