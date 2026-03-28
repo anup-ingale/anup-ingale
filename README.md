@@ -45,8 +45,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 [![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![SHADCN UI](https://img.shields.io/badge/ShadCn_UI-000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 </details>
 
@@ -54,7 +52,9 @@
 
 <details open><summary style="font-size: 20px; ">𝘽𝙖𝙘𝙠𝙚𝙣𝙙 🌐</summary>
 &nbsp;
-
+	
+![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-202020?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 [![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 ![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
