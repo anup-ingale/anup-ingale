@@ -31,45 +31,102 @@
 ---
 
 <details open>
-	<summary style="font-size: 20px; font-weight:bold;">𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨: 🛠️ </summary>
-		<blockquote>
+<summary style="font-size: 20px; font-weight:bold;">𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨: 🛠️ </summary>
 
-<details open><summary style="font-size: 20px; "> 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 🖥️
- </summary>
- &nbsp;
+<blockquote>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=58c4dc)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=58c4dc)
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-[![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+<!-- FRONTEND -->
+<details open>
+<summary style="font-size: 20px;">𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 🖥️</summary>
+&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
 
 </details>
 
 ---
 
-<details open><summary style="font-size: 20px; ">𝘽𝙖𝙘𝙠𝙚𝙣𝙙 🌐</summary>
+<!-- BACKEND -->
+<details open>
+<summary style="font-size: 20px;">𝘽𝙖𝙘𝙠𝙚𝙣𝙙 🌐</summary>
 &nbsp;
-	
-![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-202020?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-[![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
 
 </details>
 
 ---
 
-<details open><summary style="font-size: 20px; ">𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚 🛢️</summary>
+<!-- DATABASE -->
+<details open>
+<summary style="font-size: 20px;">𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚 🛢️</summary>
 &nbsp;
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Mongoose-8c0808?style=for-the-badge&logo=mongoose&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+
+</details>
+
+---
+
+<!-- DEVOPS -->
+<details open>
+<summary style="font-size: 20px;">𝘿𝙚𝙫𝙊𝙥𝙨 & 𝘾𝙡𝙤𝙪𝙙 ☁️</summary>
+&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
+
+</details>
+
+---
+
+<!-- TOOLS -->
+<details open>
+<summary style="font-size: 20px;">𝘼𝙋𝙄 & 𝘿𝙚𝙫 𝙏𝙤𝙤𝙡𝙨 🔧</summary>
+&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="50"/>
+
+</details>
+
+---
+
+<!-- SCRAPING -->
+<details open>
+<summary style="font-size: 20px;">𝙒𝙚𝙗 𝙎𝙘𝙧𝙖𝙥𝙞𝙣𝙜 🕷️</summary>
+&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/scrapy/60A839" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Scrapy / BeautifulSoup"/>
+
+</details>
+
+---
+
+<!-- AI TOOLS -->
+<details open>
+<summary style="font-size: 20px;">𝘼𝙄 & 𝘿𝙚𝙫 𝙏𝙤𝙤𝙡𝙨 🤖</summary>
+&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="40" title="Lovable"/> &nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="40" title="nodejs"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> &nbsp;&nbsp;
 
 </details>
 
